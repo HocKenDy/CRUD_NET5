@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "crudNET5Db": "Server=.;Database=crudNET5;Trusted_Connection=True;"
+  }
+}

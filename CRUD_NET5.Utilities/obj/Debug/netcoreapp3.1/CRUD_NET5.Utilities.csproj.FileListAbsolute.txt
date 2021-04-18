@@ -1,0 +1,9 @@
+D:\BlogForMe\CRUD.NETCORE5\CRUD_NET5\CRUD_NET5.Utilities\bin\Debug\netcoreapp3.1\CRUD_NET5.Utilities.deps.json
+D:\BlogForMe\CRUD.NETCORE5\CRUD_NET5\CRUD_NET5.Utilities\bin\Debug\netcoreapp3.1\CRUD_NET5.Utilities.dll
+D:\BlogForMe\CRUD.NETCORE5\CRUD_NET5\CRUD_NET5.Utilities\bin\Debug\netcoreapp3.1\CRUD_NET5.Utilities.pdb
+D:\BlogForMe\CRUD.NETCORE5\CRUD_NET5\CRUD_NET5.Utilities\obj\Debug\netcoreapp3.1\CRUD_NET5.Utilities.AssemblyInfoInputs.cache
+D:\BlogForMe\CRUD.NETCORE5\CRUD_NET5\CRUD_NET5.Utilities\obj\Debug\netcoreapp3.1\CRUD_NET5.Utilities.AssemblyInfo.cs
+D:\BlogForMe\CRUD.NETCORE5\CRUD_NET5\CRUD_NET5.Utilities\obj\Debug\netcoreapp3.1\CRUD_NET5.Utilities.csproj.CoreCompileInputs.cache
+D:\BlogForMe\CRUD.NETCORE5\CRUD_NET5\CRUD_NET5.Utilities\obj\Debug\netcoreapp3.1\CRUD_NET5.Utilities.dll
+D:\BlogForMe\CRUD.NETCORE5\CRUD_NET5\CRUD_NET5.Utilities\obj\Debug\netcoreapp3.1\CRUD_NET5.Utilities.pdb
+D:\BlogForMe\CRUD.NETCORE5\CRUD_NET5\CRUD_NET5.Utilities\obj\Debug\netcoreapp3.1\CRUD_NET5.Utilities.csprojAssemblyReference.cache
