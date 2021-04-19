@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Common\APISuccessResult.cs~RF15cbc5.TMP" />
+    <None Remove="User\RegisterRequest.cs~RF21f646.TMP" />
+  </ItemGroup>
+
 </Project>
